@@ -2,7 +2,7 @@
 JSTOR Labs Updated Visual Essay Test
 
 
-<a href="https://www.juncture-digital.org/showcase/bedroom-in-arles/"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://www.juncture-digital.org/Richel325/essays/ve_test_23/"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Girl with a Pearl Earring"
